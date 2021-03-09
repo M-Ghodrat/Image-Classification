@@ -4,11 +4,11 @@ This is an implementation of the model used for image classification of ???. In 
 All code is written in Python 3 and uses DL algorithms.
 
 ## Table of Contents
-- [Introduction to Image Classification](Introduction to Image Classification)
+- [Introduction](Introduction)
 - [Prerequisites](Prerequisites)
 - [Dataset](Dataset)
 
-### Introduction to Image Classification
+### Introduction
 Introduction to Image Classification
 
 ### Prerequisites
